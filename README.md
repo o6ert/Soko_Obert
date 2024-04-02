@@ -8,8 +8,14 @@ I'm Obert from Zambia, and I do Web Development and Programming.
 - 💻 HTML,CSS & JavaScript.
 - 🐍 Python.
 
+## Examples of Work:
+
+
+## Interests:
 - 🔭 I’m currently working on A Movie Recommendation System using Machine Learning. 
-- 👯 I’m looking to collaborate on Building Websites, Web Applications, Mobile Applications, etc. 
+- 👯 I’m looking to collaborate on Building Websites, Web Applications, Mobile Applications, etc.
+
+## Contact:
 - 📫 How to reach me: osoko8919@gmail.com 
 
 
