@@ -2,7 +2,11 @@
 #### Web Developer and Programmer.
 I'm Obert from Zambia, and I do Web Development and Programming.
 
-Skills: C# / PYTHON / JS / HTML / CSS/ 
+## Skills and Experience:
+- ♯ C#.
+- ⚛ Node.JS.
+- 💻 HTML,CSS & JavaScript.
+- 🐍 Python.
 
 - 🔭 I’m currently working on A Movie Recommendation System using Machine Learning. 
 - 👯 I’m looking to collaborate on Building Websites, Web Applications, Mobile Applications, etc. 
