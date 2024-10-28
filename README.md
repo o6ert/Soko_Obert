@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I'm Obert from Zambia, I do Web Development and Programming.
+I'm a Web Developer and Programmer from Lusaka, Zambia.
 
 ## Skills and Experience:
 - ♯ C#.
