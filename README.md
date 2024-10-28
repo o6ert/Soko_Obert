@@ -1,6 +1,6 @@
-### Hi there 👋, Soko Obert
-#### Web Developer and Programmer.
-I'm Obert from Zambia, and I do Web Development and Programming.
+### Hi there 👋,
+
+I'm Obert from Zambia, I do Web Development and Programming.
 
 ## Skills and Experience:
 - ♯ C#.
